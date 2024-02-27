@@ -32,4 +32,4 @@ class Instagram extends TakePhoto {
 }
 
 const version2 = new Instagram("wadw", "wdawda", "wdwada")
-console.log(version2.getRealTime()  )
+console.log(version2.getRealTime())
